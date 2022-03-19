@@ -1,6 +1,6 @@
-- 🌱 Estudando C# e SQL
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/rodrigo-gabriel-de-melo-da-silva-990383139">LinkedIn</a>
-- 😄 Pronouns: Ele/dele
+- 🌱 Estudando C# e JS as vezes 😊
+- 📫 Redes: <a href="https://www.linkedin.com/in/rodrigo-gabriel-de-melo-da-silva-990383139">LinkedIn</a>
+- 😄 Pronomes: Ele/dele
 
 <div>
 	<a href="https://github.com/Ro0ds">
