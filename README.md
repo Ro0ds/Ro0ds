@@ -4,8 +4,8 @@
 
 <div>
 	<a href="https://github.com/Ro0ds">
-	<img height="130em" src="https://github-readme-stats.vercel.app/api?username=ro0ds&count_private=true&theme=nightowl&show_icons=true"/>
-	<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ro0ds&layout=compact&theme=nightowl&langs_count=10"/>
+	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ro0ds&count_private=true&theme=nightowl&show_icons=true"/>
+	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ro0ds&layout=compact&theme=nightowl&langs_count=10"/>
 </div>
 	
 <div style="display: inline_block"><br>
