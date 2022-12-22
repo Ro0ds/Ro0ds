@@ -1,4 +1,4 @@
-- 🌱 Estudando C# e JS as vezes 😊
+- 🌱 Estudando C, C++ e C# 😊
 - 📫 Redes: <a href="https://www.linkedin.com/in/rodrigo-gabriel-de-melo-da-silva-990383139">LinkedIn</a>
 - 😄 Pronomes: Ele/dele
 
