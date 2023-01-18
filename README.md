@@ -1,6 +1,5 @@
 - 🌱 Estudando C e C# 😊
 - 📫 Redes: <a href="https://www.linkedin.com/in/rodrigo-gabriel-de-melo-da-silva-990383139">LinkedIn</a>
-- 😄 Pronomes: Ele/dele
 
 <div>
 	<a href="https://github.com/Ro0ds">
