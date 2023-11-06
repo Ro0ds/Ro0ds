@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **ASP.NET Core (7.0) MVC website**
 
-- 🌱 I’m currently learning **ASP.NET Core (7.0), Angular and JAVA + Spring**
+- 🌱 I’m currently learning **ASP.NET Core (7.0), Angular and Java + Spring**
 
 - 👯 I’m looking to collaborate on **any .NET/C#/Python project**
 
