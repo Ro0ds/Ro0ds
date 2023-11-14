@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core (7.0), Angular and Java + Spring**
 
-- 👯 I’m looking to collaborate on **any .NET/C#/Python project**
+- 👯 I’m looking to collaborate on **any .NET/C#/Python/Java project or any games with Unity!**
 
 - 📫 How to reach me **rodgabrielsilva@icloud.com**
 
