@@ -4,9 +4,9 @@
 
 <h3 align="center">Software Engineering Student | C# Developer | Python Enthusiast | Database Enthusiast</h3>
 
-- 🔭 I’m currently working on **ASP.NET Core (7.0) MVC website**
+- 🔭 I’m currently working on **ASP.NET Core (8.0) Web API with EF**
 
-- 🌱 I’m currently learning **ASP.NET Core (7.0), Angular and Java + Spring**
+- 🌱 I’m currently learning **ASP.NET Core (8.0), API and Python OOP**
 
 - 👯 I’m looking to collaborate on **any .NET/C#/Python/Java project or any games with Unity!**
 
