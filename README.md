@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **ASP.NET Core (8.0) Web API with EF**
 
-- 🌱 I’m currently learning **ASP.NET Core (8.0), API and Python OOP**
+- 🌱 I’m currently learning **ASP.NET Core (8.0), API and JAVA OOP**
 
 - 👯 I’m looking to collaborate on **any .NET/C#/Python/Java project or any games with Unity!**
 
@@ -62,12 +62,12 @@
 </p>
 
 <p align="center">&nbsp;
-  <img src="https://github-readme-stats-rodrigos-projects-fb45ce79.vercel.app/api?username=ro0ds&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true" alt="ro0ds" />
-  <img src="https://github-readme-streak-stats-seven-gold.vercel.app?user=Ro0ds&theme=tokyonight" alt="ro0ds" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ro0ds&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true" alt="ro0ds" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Ro0ds&theme=tokyonight-duo&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="ro0ds" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-rodrigos-projects-fb45ce79.vercel.app/api/top-langs/?username=ro0ds&layout=compact&theme=tokyonight&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ro0ds&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
