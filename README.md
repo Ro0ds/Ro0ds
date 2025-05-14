@@ -4,9 +4,9 @@
 
 <h3 align="center">Software Engineering Student | C# Developer | Python Enthusiast | Database Enthusiast</h3>
 
-- 🔭 I’m currently working on **Fullstack ASP.NET Core (8.0) WEB API with EF, ReactJS frontend w/JWT**
+- 🔭 I’m currently working on **Fullstack ASP.NET Core (9.0) WEB API with EF, ReactJS frontend w/Auth0**
 
-- 🌱 I’m currently learning **ASP.NET Core (8.0), API and React**
+- 🌱 I’m currently learning **ASP.NET Core (9.0), API and React**
 
 - 👯 I’m looking to collaborate on **any .NET/C#/Python project or any games with Unity!**
 
